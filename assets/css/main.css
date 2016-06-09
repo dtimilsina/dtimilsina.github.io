@@ -283,9 +283,9 @@ sm {
 	height: 300px;
 	margin: 0px auto;
 	border-radius: 200px;
-	-webkit-border-radius: 150px;
+	-webkit-border-radius: 150px; /**/
 	-moz-border-radius: 150px;
 	background: url("../img/myphoto.jpg") no-repeat;
-	background-size: 300px 405px;
+	background-size: 300px 400px;
 	z-index: 1;
 }
