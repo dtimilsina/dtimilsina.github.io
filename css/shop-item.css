@@ -110,13 +110,13 @@ footer {
 .circular{
 
 	width: 320px;
-	height: 500px;
-	border-radius: 10px;
+	height: 400px;
+	border-radius: 20px;
   margin-left: 100px;
-	-webkit-border-radius: 20px;
-	-moz-border-radius: 150px;
+	-webkit-border-radius: 120px;
+	-moz-border-radius: 10px;
 	background: url("../img/myphoto.jpg") no-repeat;
-	background-size: 320px 505px;
+	background-size: 320px 500px;
 	z-index: 1;
 }
 
